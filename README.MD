@@ -9,7 +9,7 @@
     - GAM_data_sub.csv: Additional data file collected for model training.
     - comment_summary.csv: Input data file for comment processing in Handle_comment_summary.ipynb.
     - comment_summary_solv.csv: Output file from the comment processing phase.
-##Content
+## Content
 - Data analysis of the GAM Esport fanpage.
 - The analysis part in the Analyze_data.ipynb file is supportive; therefore, it is essential to read the report in the Notion file for a better understanding.
 - Notion link: https://sparkly-magazine-bbc.notion.site/B-o-c-o-Ph-n-t-ch-d-li-u-v-d-o-n-t-ng-t-c-ng-i-d-ng-t-trang-Facebook-e16830be687f4546a4d8c7edfee39359?pvs=4
